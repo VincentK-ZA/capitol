@@ -1,0 +1,21 @@
+{
+  "name": "capitol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentK-ZA/capitol.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VincentK-ZA/capitol/issues"
+  },
+  "homepage": "https://github.com/VincentK-ZA/capitol#readme",
+  "dependencies": {
+    "kontra": "^10.0.2"
+  }
+}
